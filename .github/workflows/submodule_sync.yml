@@ -29,7 +29,7 @@ jobs:
           commit-message: Update Submodules
           signoff: false
           branch: bot/update-submodules
-          base: main
+          base: upstream/main
           delete-branch: true
           title: '[BOT] Update Submodules'
           body: |
