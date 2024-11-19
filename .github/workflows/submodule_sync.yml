@@ -41,4 +41,3 @@ jobs:
             C-bot
           assignees: refcell
           draft: false
-          push-to-fork: alloy-rs/op-alloy
